@@ -129,3 +129,5 @@ These are zero-width assertions that do not consume characters in the string, bu
 By understanding each of these components, you can construct complex regex patterns that can match almost any text pattern you need.
 
 ### Author 
+
+The author of this tutorial is [TarunPara](https://github.com/TarunPara), who is committed to continuous learning and daily improvement. Initially, delving into regular expressions was a challenging and somewhat exasperating endeavor. However, with persistence and exploration, what once was a source of frustration has transformed into an engaging and enjoyable journey. This tutorial is a testament to that evolution, and it is with great enthusiasm that these insights are shared with fellow learners.
